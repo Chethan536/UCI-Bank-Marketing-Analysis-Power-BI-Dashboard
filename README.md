@@ -1,8 +1,3 @@
-Here is your **single-copy, clean, GitHub-ready README.md** — **no extra sections, no duplicates.**
-Just **copy–paste directly** into GitHub. ✅
-
----
-
 # 📊 UCI Bank Marketing Data Analysis & Power BI Dashboard
 
 This project analyzes the **UCI Bank Marketing Dataset** using **Python** for data cleaning and EDA, and **Power BI** for interactive visualizations. It uncovers customer behavior patterns, financial trends, call performance insights, and subscription drivers to help improve marketing strategy and business decision-making.
@@ -174,15 +169,6 @@ UCI-Bank-Project/
 
 ---
 
-If you want, I can also generate:
-
-✅ A shorter version for recruiters
-✅ A LinkedIn post
-✅ A banner image for your GitHub repo
-
-Just tell me!
-
----
 
 
 
